@@ -5,19 +5,8 @@ A Simple PDF Viewer library which only occupies around <b>80kb</b> while most of
 <br>
 <br>
 </p>
-<p float="left">
-  <img src="https://github.com/afreakyelf/Pdf-Viewer/assets/38572147/e310060c-bea2-42ee-b02a-3758f3122e05" width="199" />
-  <img src="https://github.com/afreakyelf/Pdf-Viewer/assets/38572147/13f64593-7627-48bc-b573-54cebb0651b2" width="199" />
-  <img src="https://github.com/afreakyelf/Pdf-Viewer/assets/38572147/fa6a0ff9-11dd-4087-bf7e-d4ba6795386c" width="199" />
-  <img src="https://github.com/afreakyelf/Pdf-Viewer/assets/38572147/babde964-5373-4d03-85ad-1b8c2cc0ab29" width="199" />
-  <img src="https://github.com/afreakyelf/Pdf-Viewer/assets/38572147/4344c962-88f7-4be4-8935-50370ad6752d" width="199" />
-
-</p>
-
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.mohsin363/Pdf-Viewer.svg)](https://search.maven.org/artifact/io.github.mohsin363/Pdf-Viewer)
-
-## [New] Join our Discord Community [here](https://discord.gg/342ZFHX9mK)!
 
 
 ## ✨ Major Enhancements in Our PDF Viewer Library ✨
@@ -48,7 +37,7 @@ Stay tuned as we continue to innovate and improve. Happy coding, and let's keep 
 
 We have migrated our library to Maven Central for easier integration and better reliability. To use the Pdf Viewer library in your project, add the following dependency to your `build.gradle` file:
 
-#### Latest version: ![](https://img.shields.io/maven-central/v/io.github.afreakyelf/Pdf-Viewer.svg) without 'v'
+#### Latest version: ![](https://img.shields.io/maven-central/v/io.github.mohsin363/Pdf-Viewer.svg) without 'v'
 
 ### Groovy DSL
 ```gradle
@@ -236,7 +225,7 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 ## Donations
-If this library helps you save time during development, you can buy me a cup of coffee :)
+If this library helps you save time during development, you can buy [Rajat](https://www.github.com/afreakyelf) a cup of coffee :)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/afreakyelf)
 
