@@ -7,6 +7,7 @@ plugins {
     id("kotlin-parcelize")
     id("org.jetbrains.dokka") version "1.9.20"
     id("com.vanniktech.maven.publish") version "0.28.0"
+    signing
 }
 
 android {
@@ -93,12 +94,12 @@ mavenPublishing {
     publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL)
     signAllPublications()
 
-    coordinates("io.github.afreakyelf", "Pdf-Viewer", "2.1.1")
+    coordinates("io.github.mohsin363", "Pdf-Viewer", "1.0.1")
 
     pom {
         name.set("PDF Viewer")
         description.set("A PDF viewing library for Android")
-        url.set("https://github.com/afreakyelf/pdfviewer")
+        url.set("https://github.com/mohsin363/pdfviewer")
         licenses {
             license {
                 name.set("MIT License")
@@ -107,16 +108,20 @@ mavenPublishing {
         }
         developers {
             developer {
-                id.set("afreakyelf")
-                name.set("Rajat Mittal")
-                email.set("rjmittal07@gmail.com")
+                id.set("mohsin363")
+                name.set("Mohsin")
+                email.set("mohsinhassan63@gmail.com")
             }
         }
         scm {
-            connection.set("scm:git:git://github.com/afreakyelf/pdfviewer.git")
-            developerConnection.set("scm:git:ssh://github.com/afreakyelf/pdfviewer.git")
-            url.set("https://github.com/afreakyelf/pdfviewer")
+            connection.set("scm:git:git://github.com/mohsin363/pdfviewer.git")
+            developerConnection.set("scm:git:ssh://github.com/mohsin363/pdfviewer.git")
+            url.set("https://github.com/mohsin363/pdfviewer")
         }
     }
 
+}
+
+signing {
+    useGpgCmd()
 }
