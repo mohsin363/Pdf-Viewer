@@ -15,9 +15,7 @@ A Simple PDF Viewer library which only occupies around <b>80kb</b> while most of
 </p>
 
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.afreakyelf/Pdf-Viewer.svg)](https://search.maven.org/artifact/io.github.afreakyelf/Pdf-Viewer) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0) ![](https://img.shields.io/github/forks/afreakyelf/Pdf-Viewer?label=Forks)
-![](https://img.shields.io/github/stars/afreakyelf/Pdf-Viewer?label=Stars&color=9cf) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fafreakyelf%2FPdf-Viewer&label=Visitors&countColor=%23263759&style=flat) [![CodeFactor](https://www.codefactor.io/repository/github/afreakyelf/pdf-viewer/badge)](https://www.codefactor.io/repository/github/afreakyelf/pdf-viewer) ![Discord](https://img.shields.io/discord/1213235452908408943?style=flat&label=Join%20discord&link=https%3A%2F%2Fdiscord.gg%2FK3u4DscdWW)
-
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.mohsin363/Pdf-Viewer.svg)](https://search.maven.org/artifact/io.github.mohsin363/Pdf-Viewer)
 
 ## [New] Join our Discord Community [here](https://discord.gg/342ZFHX9mK)!
 
