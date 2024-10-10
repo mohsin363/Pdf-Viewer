@@ -43,14 +43,14 @@ We have migrated our library to Maven Central for easier integration and better 
 ```gradle
 dependencies {
     // Replace 'latest-version' with the actual latest version number
-    implementation 'io.github.afreakyelf:Pdf-Viewer:latest-version'
+    implementation 'io.github.mohsin363:Pdf-Viewer:latest-version'
 }
 ```
 ### Kotlin DSL
 ```gradle
 dependencies {
     // Replace 'latest-version' with the actual latest version number
-    implementation("io.github.afreakyelf:Pdf-Viewer:latest-version")
+    implementation("io.github.mohsin363:Pdf-Viewer:latest-version")
 }
 ```
 
